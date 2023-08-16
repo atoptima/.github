@@ -1,4 +1,4 @@
-Atoptima is a DeepTech software editor offering powerful optimization modules for operations planning (vehicle routing, loading and packing, operations planning & scheduling…).
+Atoptima is a DeepTech software editor offering powerful optimization modules for operations planning (vehicle routing, loading and packing, depot location, production scheduling, load smoothing, timetabling…).
 
 Based on prescriptive analytics and mathematical optimization, our solutions significantly improve decision-making, relying on more than 25 years of experience in Operations Research at the MIT, the University of Cambridge, the Inria and the CNRS.
 
